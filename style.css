@@ -1,0 +1,23 @@
+body {
+    background-color: blue; /* Cor de fundo azul */
+    color: white; /* Cor da letra branca */
+    font-family: Arial, sans-serif; /* Fonte Arial */
+}
+
+h1 {
+    font-size: 30px; /* Tamanho da fonte dos títulos */
+    text-align: center; /* Centraliza o texto */
+}
+
+p {
+    font-size: 20px; /* Tamanho da fonte dos parágrafos */
+}
+
+img {
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem */
+}
+
+a {
+    color: yellow; /* Cor do link */
+}
