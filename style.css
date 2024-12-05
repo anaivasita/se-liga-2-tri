@@ -20,4 +20,11 @@ img {
 
 a {
     color: yellow; /* Cor do link */
+    .moldura {
+        border: 5px solid white; /* Borda branca */
+        padding: 20px; /* Espaçamento interno */
+        margin: 20px; /* Margem externa */
+        background-image: linear-gradient(to right, red, orange); /* Degradê de vermelho a laranja */
+    }
+    
 }
